@@ -16,7 +16,7 @@ function App() {
         <h1 className='header-title'>国旗比率計算機</h1>
       </div>
     </header>
-    <p className='main-description'>次のうちどれかを入力してボタンをクリックすると、ほかも計算して入力してくれるサイトです。</p>
+    <p className='main-description'>次のうちどれかを入力してボタンをクリックすると、ほかも計算して入力してくれるサイトです。適当に作ったので正確性は保証しません。工作などの使用に限定してください。</p>
     <main>
       
       <div className='left-container'>
