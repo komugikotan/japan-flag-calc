@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/japan-flac-calc/static/css/main.b07919f6.css",
+    "main.js": "/japan-flac-calc/static/js/main.90802d46.js",
+    "static/js/787.17b2d8ea.chunk.js": "/japan-flac-calc/static/js/787.17b2d8ea.chunk.js",
+    "static/media/flag.jpg": "/japan-flac-calc/static/media/flag.5d09d98190347fd4df3c.jpg",
+    "index.html": "/japan-flac-calc/index.html",
+    "main.b07919f6.css.map": "/japan-flac-calc/static/css/main.b07919f6.css.map",
+    "main.90802d46.js.map": "/japan-flac-calc/static/js/main.90802d46.js.map",
+    "787.17b2d8ea.chunk.js.map": "/japan-flac-calc/static/js/787.17b2d8ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b07919f6.css",
+    "static/js/main.90802d46.js"
+  ]
+}
