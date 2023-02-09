@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/do_i_have_common_sense/static/css/main.b07919f6.css",
-    "main.js": "/do_i_have_common_sense/static/js/main.dfc9ad0c.js",
-    "static/js/787.17b2d8ea.chunk.js": "/do_i_have_common_sense/static/js/787.17b2d8ea.chunk.js",
-    "static/media/flag.jpg": "/do_i_have_common_sense/static/media/flag.5d09d98190347fd4df3c.jpg",
-    "index.html": "/do_i_have_common_sense/index.html",
-    "main.b07919f6.css.map": "/do_i_have_common_sense/static/css/main.b07919f6.css.map",
-    "main.dfc9ad0c.js.map": "/do_i_have_common_sense/static/js/main.dfc9ad0c.js.map",
-    "787.17b2d8ea.chunk.js.map": "/do_i_have_common_sense/static/js/787.17b2d8ea.chunk.js.map"
+    "main.css": "/japan-flag-calc/static/css/main.b07919f6.css",
+    "main.js": "/japan-flag-calc/static/js/main.63ae2cb0.js",
+    "static/js/787.17b2d8ea.chunk.js": "/japan-flag-calc/static/js/787.17b2d8ea.chunk.js",
+    "static/media/flag.jpg": "/japan-flag-calc/static/media/flag.5d09d98190347fd4df3c.jpg",
+    "index.html": "/japan-flag-calc/index.html",
+    "main.b07919f6.css.map": "/japan-flag-calc/static/css/main.b07919f6.css.map",
+    "main.63ae2cb0.js.map": "/japan-flag-calc/static/js/main.63ae2cb0.js.map",
+    "787.17b2d8ea.chunk.js.map": "/japan-flag-calc/static/js/787.17b2d8ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b07919f6.css",
-    "static/js/main.dfc9ad0c.js"
+    "static/js/main.63ae2cb0.js"
   ]
 }
