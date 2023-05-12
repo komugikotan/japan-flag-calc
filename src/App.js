@@ -41,17 +41,21 @@ function App() {
           <br/>
           <br/>
           <button onClick={() => {
-            if (text_height !== ''){
+            let did = null;
+            if (text_height !== '' && text_height !== '0' && did !== 1){
               setText_width(text_height * 1.5);
               setText_tyokkei(text_height * 0.6);
+              did = 1;
             }
-            if (text_width !== ''){
+            else if (text_width !== '' && text_width !== '0' && did !== 1){
               setText_height(text_width * 0.66);
-              setText_tyokkei(text_height * 0.4);
+              setText_tyokkei(text_width * 0.4);
+              did = 1;
             }
-            if (text_tyokkei !== ''){
+            else if (text_tyokkei !== '' && text_tyokkei !== '0' && did !== 1){
               setText_height(text_tyokkei * 1.66);
               setText_width(text_tyokkei * 2.5);
+              did = 1;
             }
             
           }}>入力</button>
